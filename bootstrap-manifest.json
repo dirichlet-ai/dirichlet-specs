@@ -1,0 +1,671 @@
+{
+  "imported_on": "2026-10-27",
+  "source": "CocoaPods/Specs",
+  "specifications": [
+    {
+      "path": "Specs/DirichletAdSDK/4.1.0.11/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/4.1.0.11/DirichletAdSDK.podspec.json",
+      "sha256": "2923856d926fc04fa117428fe1561f4b158bdfb7901045e7e7e0ea45b21649b6"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/4.1.0.13/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/4.1.0.13/DirichletAdSDK.podspec.json",
+      "sha256": "4523e238f22437ed1826efae74a28bccbb050ce65b3cb2560b87485b1babcab4"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/4.1.0.14/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/4.1.0.14/DirichletAdSDK.podspec.json",
+      "sha256": "b79eee86e9a8663d16165ff10ce549840adc4e8c983b872deeef0fba38238f1e"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/4.1.2.0/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/4.1.2.0/DirichletAdSDK.podspec.json",
+      "sha256": "fbee35503590b6085dc26e5288338971d2090b46812ad43f619927694c594de1"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/4.1.2.5/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/4.1.2.5/DirichletAdSDK.podspec.json",
+      "sha256": "fba889ff3f70820a77dec86e1e107c118ef369abb4caac8b08fdebf94d37d20a"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/4.2.0.0/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/4.2.0.0/DirichletAdSDK.podspec.json",
+      "sha256": "2d8ba0184b44bbd6add621e8c9d415e447739b9f5d9eacacc0be114bbc96c00a"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/4.2.0.1/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/4.2.0.1/DirichletAdSDK.podspec.json",
+      "sha256": "173ecd677b8b7ff3aac3409eb251b7bb7485746cc88cd9861b0aef267a0634fa"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/4.2.0.2/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/4.2.0.2/DirichletAdSDK.podspec.json",
+      "sha256": "7e567ebf1f46a3af708c78ac958c9a30d6775ea9dd6e0f3e731fbe95d5818f97"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/4.2.8.3/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/4.2.8.3/DirichletAdSDK.podspec.json",
+      "sha256": "24cf2f4d835c472fef4bc610d90f714971eae4c3972c6e284c9f20b6ed8e84a2"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/5.1.1.1/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/5.1.1.1/DirichletAdSDK.podspec.json",
+      "sha256": "93a3ff04ec3565e0eda237e6f09d8d2a1237e05334dbbe332e94372bfe1ce713"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/5.1.2.3/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/5.1.2.3/DirichletAdSDK.podspec.json",
+      "sha256": "6348acc364284330ff36f488cfffabd83b35e4b866a9e51bec46e4a8b81af39d"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/5.2.1.0/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/5.2.1.0/DirichletAdSDK.podspec.json",
+      "sha256": "fd1cc8a19eca0135938270c6d01d60d4f0ca056065a314a74123f75ba77145de"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/5.2.1.1/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/5.2.1.1/DirichletAdSDK.podspec.json",
+      "sha256": "e6b3a25b64834c187770f9789dac0fef9a46c607de32edcc82b3de1abcb8182d"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/5.2.1.3/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/5.2.1.3/DirichletAdSDK.podspec.json",
+      "sha256": "b7c4c30037e305be4b7126f7915a2f66e145c845f33798f56ec2e894d70f91e0"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/5.2.1.5/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/5.2.1.5/DirichletAdSDK.podspec.json",
+      "sha256": "e8932c74525a07c829f996e1c8a19594fa2db3fb0d0046b368d53bad602110df"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/5.2.1.9/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/5.2.1.9/DirichletAdSDK.podspec.json",
+      "sha256": "2bbc8796e1e3cb749115a3048f2595e1731cedc4a67d7754b39207cf57bce1e9"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/5.3.0.1/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/5.3.0.1/DirichletAdSDK.podspec.json",
+      "sha256": "16a2edd325ad95204831aac475868f5c240469e22697910ed1eff8e6182c5680"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/5.3.1.0/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/5.3.1.0/DirichletAdSDK.podspec.json",
+      "sha256": "8d0748af2a20da9f63f1e84b97ed2a03573c335ea898335665381380bd56f42b"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/5.3.1.1/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/5.3.1.1/DirichletAdSDK.podspec.json",
+      "sha256": "53b58d496e180f395b626e16efe040a0e12cdd58efcaf9caf644b93825d05c29"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/5.3.1.4/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/5.3.1.4/DirichletAdSDK.podspec.json",
+      "sha256": "0ba199daf20c52f2ddefac7b2c0082973d9c20d2bc9ac8c0fde8b4ed3241626c"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/5.3.1.6/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/5.3.1.6/DirichletAdSDK.podspec.json",
+      "sha256": "6aac65c8c930fa4c71f14480522bb1128bfcecd6b60b3a0c7528433f4b91ce98"
+    },
+    {
+      "path": "Specs/DirichletAdSDK/5.3.1.7/DirichletAdSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/8/e/0/DirichletAdSDK/5.3.1.7/DirichletAdSDK.podspec.json",
+      "sha256": "42db2bfa93de1abfb3fe6cc44cc436c3e5afee3e6e7c7dba0686f5e18a26c671"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/4.1.0.11/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/4.1.0.11/DirichletCoreSDK.podspec.json",
+      "sha256": "dc793e7ae6d5977222e239605427b2f5a89fc6b802dc1106e874ee121758c453"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/4.1.0.14/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/4.1.0.14/DirichletCoreSDK.podspec.json",
+      "sha256": "53086b0d2a7746a1e69b1d631184420c7304917727c26513b8e3de640f895bda"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/4.1.2.5/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/4.1.2.5/DirichletCoreSDK.podspec.json",
+      "sha256": "3bfc84a3f3d276fb400981a937f669ebb92ec4bc711dcbb0af98385b62ffb362"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/4.2.0.0/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/4.2.0.0/DirichletCoreSDK.podspec.json",
+      "sha256": "66658f0bfe7f5538263236d0d3ff60d7611e082e538c371dc6386c0ec4c923ee"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/4.2.0.1/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/4.2.0.1/DirichletCoreSDK.podspec.json",
+      "sha256": "5ace15f6914f0a6882570f98afeb1867d25d707957c973b1eae9d95148f9134c"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/4.2.0.2/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/4.2.0.2/DirichletCoreSDK.podspec.json",
+      "sha256": "cc3b3c521dc38e1b707814dc8992da8ff38eb5590a10667e70083e79b2051193"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/4.2.4.0/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/4.2.4.0/DirichletCoreSDK.podspec.json",
+      "sha256": "45ce32e48e9b0201498f806ef88807bb4b2f5871263ec66a53f427bcd0ddfe20"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/4.2.5.0/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/4.2.5.0/DirichletCoreSDK.podspec.json",
+      "sha256": "a78b446b576cc120067317728796c4aead09eeaa37f720e9c2882e617e2677be"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/4.2.8.3/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/4.2.8.3/DirichletCoreSDK.podspec.json",
+      "sha256": "72555e91f92ddfb40ee935c7402fe78a7a53655e5a879ee4bfb6681760e42d7b"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/5.1.1.1/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/5.1.1.1/DirichletCoreSDK.podspec.json",
+      "sha256": "a5ee7548c563c79add801eb772b29350c21b527171a7222fac487d460c9a9bf8"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/5.1.2.3/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/5.1.2.3/DirichletCoreSDK.podspec.json",
+      "sha256": "122c924f4f46f0c0b132944387116c5b26e37d9bf2a3e05eee114729201842dd"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/5.2.1.0/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/5.2.1.0/DirichletCoreSDK.podspec.json",
+      "sha256": "9f65fa1371b4e63b8da5c56c8435dfcc01abe016a20ebb6230187ecf960679f9"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/5.2.1.1/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/5.2.1.1/DirichletCoreSDK.podspec.json",
+      "sha256": "cf2087685e1470c18422c5a744d5918478bdc1dd9c937b26596d15ea433ca3ea"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/5.2.1.2/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/5.2.1.2/DirichletCoreSDK.podspec.json",
+      "sha256": "328fd0c1ee6df9199029763f68f77edd6392fec1c5afdbeac7044c50b4252a89"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/5.2.1.3/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/5.2.1.3/DirichletCoreSDK.podspec.json",
+      "sha256": "a52bca5e787e39498db0d465053c38a868e3a30b8c8b53e6154fe14f8ab52a00"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/5.2.1.4/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/5.2.1.4/DirichletCoreSDK.podspec.json",
+      "sha256": "663ceb79247a243b50b7b3efe383469740a711169b6986a73d1eff6bd2eebc4d"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/5.2.1.5/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/5.2.1.5/DirichletCoreSDK.podspec.json",
+      "sha256": "db28ccd9e8d3db5c485e0f7b252c9d120479f5ad7aece84e53b4c0e7e51d5877"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/5.2.1.9/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/5.2.1.9/DirichletCoreSDK.podspec.json",
+      "sha256": "c08859387c3ccdb8a36794dcc7368bc1c873c46ddefd966172624617b965690e"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/5.3.0.1/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/5.3.0.1/DirichletCoreSDK.podspec.json",
+      "sha256": "79b043e700877ae1fd552ba61ace2ec6f40fc2e9f1d3b4de03207e85c0ad9b25"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/5.3.1.0/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/5.3.1.0/DirichletCoreSDK.podspec.json",
+      "sha256": "10eccc7be4b39c8b4086af9300e9e99cfcd64eb2b77996ebeac291e34e4000c7"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/5.3.1.1/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/5.3.1.1/DirichletCoreSDK.podspec.json",
+      "sha256": "ee7f79f88757e792d20a0e990b71e3b3b8350e8f82016823c23c12e42ed916b7"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/5.3.1.4/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/5.3.1.4/DirichletCoreSDK.podspec.json",
+      "sha256": "ed274f40484b9750e70a572a6f18e59db180e362a260e7d661e796f20d9189ca"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/5.3.1.6/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/5.3.1.6/DirichletCoreSDK.podspec.json",
+      "sha256": "8aefe5ff7c48f916b7e067aacc5026d2f0a24f4a38b4e582e3f01d2c55818781"
+    },
+    {
+      "path": "Specs/DirichletCoreSDK/5.3.1.7/DirichletCoreSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/1/5/DirichletCoreSDK/5.3.1.7/DirichletCoreSDK.podspec.json",
+      "sha256": "a2ee8e76efc2a6b8cd2219d91a571b3cf318ee83b64f53d1d386b685114f1ae5"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/4.1.0.11/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/4.1.0.11/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "c39c37aacb4af021e93e3bac7cc0d67604479dd826fef0a6a44219f2225dba57"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/4.1.0.13/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/4.1.0.13/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "88ef74f056f11f58b0cd2ddfc2f6fc6fa7c3e1a9300163cff710568bcf950e9a"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/4.1.0.14/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/4.1.0.14/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "5b1fc89dc09660de27ce1e0458380abc535de688ceed5b44ad34da6115a3d8cb"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/4.1.2.0/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/4.1.2.0/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "b4617d8daee62ad8dfd423fe9b857bb328b4a595b31c744045511eeaadee8cab"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/4.1.2.5/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/4.1.2.5/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "4694b6b417579bd2a7c8bc4fff83957eae056690c45ee498694a816c9413f995"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/4.2.0.0/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/4.2.0.0/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "9e20740abbfdc40a04db16de17070bccbd6e9cf6fc342735b9a36e773c532202"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/4.2.0.1/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/4.2.0.1/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "65050dd4eb1f7b54d9fc6b7ddddbd0ee802b59b5d5c3ee377ee6c60b36e2a6a7"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/4.2.0.2/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/4.2.0.2/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "6ff13489ded19255e6cefd8d1cc7c06f7e84ef41cbfd3da7cfefb9ea391be854"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/4.2.8.3/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/4.2.8.3/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "840ddc2a8dfd704cfdc4d4786c8cb0db17c5f371a63bc213affddfd0b0cc5fbe"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/5.1.1.1/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/5.1.1.1/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "c72fe5cf178d70533933b0805ffd7cc7efd795ef6bc3931ccbc8d95563fbc6cd"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/5.1.2.3/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/5.1.2.3/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "68aa2bbeea0b509eec6d1aca4cd39f3a652c0ac464dc1321716497aee6d08b01"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/5.2.1.1/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/5.2.1.1/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "fd0be1306d4c81abb0786ade34166a4c7b9235140752ca418314eecd29e1d0f8"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/5.2.1.3/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/5.2.1.3/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "d9d54f9155174dfd6dd74577bf415138967b933aa9a0b9e2306ce0c42667b929"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/5.2.1.4/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/5.2.1.4/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "8797f555b3b31bbf375a785d128a2906ff59434156f8e758bfb4396aa38509c9"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/5.2.1.5/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/5.2.1.5/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "4ebfb911f4917ea14d01e709fc36c2f54623ba4a0555917a59792da79edda04e"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/5.2.1.9/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/5.2.1.9/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "8bc4b4bb01fa45ba409141fc08774a1368d81aa9872cf6be7303174ea4139542"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/5.3.0.1/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/5.3.0.1/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "bc63cbfeaa435221fd756e4490a4709a50af96f8727e0cce74b5e620f91e4e7f"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/5.3.1.0/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/5.3.1.0/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "4f665bda5162b146ff86c311dea1fb3853eb467670e8eea782bb62b744bcfb29"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/5.3.1.1/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/5.3.1.1/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "1ecfeabdbc92d4d195cb869f537039c75cdd65ff2bf5883afbf71694ce507618"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/5.3.1.4/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/5.3.1.4/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "8a3f06a5632a7b6fef951fc7243d611b557c09b1b2b618605f637bd7fddc6fad"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/5.3.1.6/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/5.3.1.6/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "0ca4d42f16fbcb1fcca19a83018f760a55255bb42eded975c7b89cec96d092cd"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterCSJ/5.3.1.7/DirichletMediationAdapterCSJ.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/a/2/DirichletMediationAdapterCSJ/5.3.1.7/DirichletMediationAdapterCSJ.podspec.json",
+      "sha256": "18c00ecea611d5165a337b4cff1d1f278f6196610416c0d4ab38ebb2c6e007dd"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/4.1.0.11/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/4.1.0.11/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "1d3924c22df37250d8bf3875a8975f3bcaa91fe025679dd4bec7e8b66e4626f5"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/4.1.0.13/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/4.1.0.13/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "32c5f5d12499415e98de4e0074d41b81204416e020da47089f071ad99ee60799"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/4.1.0.14/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/4.1.0.14/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "cb28280d007edd1ee1be7602283885eb1d58b2cf02281d8c0c33910bc999da9d"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/4.1.2.0/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/4.1.2.0/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "638a66823aea41fdc93f5a93952c1771838b9190b100463c0625bb1a4ea91a7e"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/4.1.2.5/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/4.1.2.5/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "d52b372262203d4887faf546724e114a4fbbf67161a619b723281aa8dbaea105"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/4.2.0.0/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/4.2.0.0/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "7b11d62e664a4c46fb441e4223dc90ff7f170f2524e42140be0c70b7434b432a"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/4.2.0.1/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/4.2.0.1/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "cfec5611053b9fb581dc7fe113c209e28addce5f5526947d66d9108efdc39a4b"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/4.2.0.2/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/4.2.0.2/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "d3c7f51dbde60bb542921d9c4d3845660040bc6aca03b1d877966df7cb3835f4"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/4.2.8.3/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/4.2.8.3/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "c89a02cb36d89ccca3e99b7505d0579cdbe612740fe5d91b5de10d4e3eb8ae40"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/5.1.1.1/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/5.1.1.1/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "c0990ac5c2b213536422639819007905f06c3a6838fcc5ddf094676406838bf4"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/5.1.2.3/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/5.1.2.3/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "1f7c8b8965f99c4241df0872c47deab22be11ba81acb9347dfff02e9683d8900"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/5.2.1.1/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/5.2.1.1/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "2b8db41335e3db1bd3f7e6abbdb75e709c84cc35b2fcfe463ed13c47fa669263"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/5.2.1.3/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/5.2.1.3/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "9aec6f354d02fa6d5e2582b4ce4bef30bbe1631b6352ddc13abe5d206532e9d6"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/5.2.1.4/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/5.2.1.4/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "a81e2b2fe162b251b9fc83de184cd1a187985524efedff2710d5b5547b50cd27"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/5.2.1.5/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/5.2.1.5/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "7259b76f2ba789d01c1dfd82c17fa331ac646128ab7c3250125670429a61bf15"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/5.2.1.9/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/5.2.1.9/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "30d377d090f1d2878dbac49f44477e37737176060163671bd9792bf397b46fa6"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/5.3.0.1/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/5.3.0.1/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "e57526c5bca0484e97858abf7a5f309ff105bcc659733e65dd004c7bbd6c61a8"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/5.3.1.0/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/5.3.1.0/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "682ae7694926dee1b7a4f153249b3cbaab0250ebf16b8de5abc54470bcd5f60f"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/5.3.1.1/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/5.3.1.1/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "8d3bd5697046f0dbe278e6413757022236b1777edd2c364e629e86d13add7816"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/5.3.1.4/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/5.3.1.4/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "b5ca84734104553fc2e11e568d1177e2d837e2909197dfb9b21de94f664e2c85"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/5.3.1.6/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/5.3.1.6/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "f7312eb8fdc22b52ba923a922ecd696a2a6029896dfceb40ef3a207a726951c9"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterDRA/5.3.1.7/DirichletMediationAdapterDRA.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/f/2/6/DirichletMediationAdapterDRA/5.3.1.7/DirichletMediationAdapterDRA.podspec.json",
+      "sha256": "cc182b2f535c08a739c924d3454d33df6e22924f1938101454168d72ddad49b6"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/4.1.0.11/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/4.1.0.11/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "572098f6d6091370819794233c300b40f654b2626116c8ed279b798ab126e436"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/4.1.0.13/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/4.1.0.13/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "ddaba89d186673c4d9a6770cbc85e3abf2fe06cd34a056dfe210c1c25b66d7eb"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/4.1.0.14/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/4.1.0.14/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "c473252f09d8d4eaac42ad8cf84ac25b13af0000b93f5bf9825b4b30f611878c"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/4.1.2.0/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/4.1.2.0/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "2de61f54614d75f4aa826848cc636dc6bb0d3c4fe404a4395b56784003fe3ac0"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/4.1.2.5/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/4.1.2.5/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "2f3d6ff28e50351aa5bfc8a67fe2b156d70df248cad2b6d0f13eaaf7acef0c88"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/4.2.0.0/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/4.2.0.0/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "21feea5686021fc7849dc982b4bc5201c13534fbd00f0b97e80bc41d7cc0a252"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/4.2.0.1/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/4.2.0.1/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "7b8e9e5a233632d71a6cacef162456751d2951abb73ba5adf30b77d01857982d"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/4.2.0.2/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/4.2.0.2/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "038c521e6b6b9a686e5f2d724adb990dbb2a56328506503a834a4ac5dd50e9d8"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/4.2.8.3/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/4.2.8.3/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "97599fbe1da1d1a0c47748ecc4501170adcf62a0e06fba2f731a01f34db7c16e"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/5.1.1.1/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/5.1.1.1/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "5d80d6d2626056e8ab46a3499fec159191d10b6330dd3e9b1ae94f3c71eedf3f"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/5.1.2.3/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/5.1.2.3/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "7c8045fb4e5e723a59cb6d9ece3ebc6dc9faf512ba6163738b83452b9cb55c79"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/5.2.1.1/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/5.2.1.1/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "56abd49f5ed01b3725bb8fa462dd3884ec7c684497da3ec9338c49b7aad99fa9"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/5.2.1.3/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/5.2.1.3/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "760d5994a213b8d1c71b6d45408c4b3cd812d793714120b2515cce1caf7617f3"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/5.2.1.4/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/5.2.1.4/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "4d72d8b6143eb821b66235adea386a5187681355f6e91dc643725c109fe1fd81"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/5.2.1.5/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/5.2.1.5/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "9068a9df8d507b4c6499a7ad568bfc29c46bff0fabb8dd53cbdcafa7b454dfad"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/5.2.1.9/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/5.2.1.9/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "05be0995dae3ac52e52faed35400c088eb9869031f80eca9f6c2c949bf37cb30"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/5.3.0.1/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/5.3.0.1/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "c3692d70f25dbee4118baf9c7593c5de14d1eeb4eaa3d95b3e275b9038ea2169"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/5.3.1.0/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/5.3.1.0/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "c01ba1a331f29c1c77f2ff761b1a5ec7388d69319be2b295daa73552628378ee"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/5.3.1.1/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/5.3.1.1/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "48acd4317baff8a8a808cebe88e2254db0c48485138a5b69398297992cfe964c"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/5.3.1.4/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/5.3.1.4/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "1438c31d4c42f3092ce956907d0d8ac5d505ce98ea0e59009e442f588861dd8e"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/5.3.1.6/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/5.3.1.6/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "f3e5bef769ef468e0475f7cd4072ac1a9a8f6dc3115d967726d74a02f632e346"
+    },
+    {
+      "path": "Specs/DirichletMediationAdapterGDT/5.3.1.7/DirichletMediationAdapterGDT.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/3/a/9/DirichletMediationAdapterGDT/5.3.1.7/DirichletMediationAdapterGDT.podspec.json",
+      "sha256": "5dd1f2e335b3d6650aebf9fc5d49284703dd2cde98c083e281b8f091d874b2f8"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/4.1.0.11/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/4.1.0.11/DirichletMediationSDK.podspec.json",
+      "sha256": "e289fdeb0d7325b6f16c099ed479ff4af0d00b84e1a3b2edcc598e4e05d5cf39"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/4.1.0.14/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/4.1.0.14/DirichletMediationSDK.podspec.json",
+      "sha256": "d8e74966432524434ba246b6e4153bb3babbfc2082879700214a254c8d0d7fd5"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/4.1.2.0/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/4.1.2.0/DirichletMediationSDK.podspec.json",
+      "sha256": "2661a306864b77f0cde9aa91251fc813074a275dfef39b3aa5ffaf6e43105f42"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/4.1.2.5/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/4.1.2.5/DirichletMediationSDK.podspec.json",
+      "sha256": "6165ee557e770c526eebc525ad5e32bb96a3b2a542a14a9f679c7f7be4d367a6"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/4.2.0.0/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/4.2.0.0/DirichletMediationSDK.podspec.json",
+      "sha256": "a459704d8dda2c6ec93118c1b250679c59352469688c6c6766fa43a9571eff20"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/4.2.0.1/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/4.2.0.1/DirichletMediationSDK.podspec.json",
+      "sha256": "76d29b4b740b880ff5f1fff273b5aa35a33721d796f4e4f2b9836ff9a34b4ddf"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/4.2.0.2/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/4.2.0.2/DirichletMediationSDK.podspec.json",
+      "sha256": "47a4ea1f5b80675bcb6994d6a393fa0883861eaab2b67f80f0bf5509d006a6b4"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/4.2.8.3/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/4.2.8.3/DirichletMediationSDK.podspec.json",
+      "sha256": "c8b69d472a34a9121b71c1e665f48327da106d284928d34950c651a68733d4c2"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/5.1.1.1/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/5.1.1.1/DirichletMediationSDK.podspec.json",
+      "sha256": "eff4bd2321579edc28a1515857614fb311589169ae9281b2025e9eab57158cf6"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/5.1.2.3/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/5.1.2.3/DirichletMediationSDK.podspec.json",
+      "sha256": "0ff0e2b54da530e142e15759434964531180bb6b2ac26c77ec9f49fca27863f3"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/5.2.1.1/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/5.2.1.1/DirichletMediationSDK.podspec.json",
+      "sha256": "64cf0556e24c0e530d72b9eed4eaad05d2389192c5af8216a0117cfa6dd116c8"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/5.2.1.3/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/5.2.1.3/DirichletMediationSDK.podspec.json",
+      "sha256": "939c60048c7c7b5e324f9a0f957ba24d52103a41940ad22f1559d15abfb70b12"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/5.2.1.4/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/5.2.1.4/DirichletMediationSDK.podspec.json",
+      "sha256": "9edc9f15ec31c0cc6daa87375924a884cccbd97494661fb78bad63b8f93fda66"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/5.2.1.5/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/5.2.1.5/DirichletMediationSDK.podspec.json",
+      "sha256": "f19201fe24f63e6ee03d8a27ed8e992cd421f46a91e1c03ab1211b651097c596"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/5.2.1.9/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/5.2.1.9/DirichletMediationSDK.podspec.json",
+      "sha256": "ef8f7fc38d9e423f1ade36330f58b029db6224fa46ffc3b13161991d50ede751"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/5.3.0.1/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/5.3.0.1/DirichletMediationSDK.podspec.json",
+      "sha256": "bedb31f05ed47eeef93a18d2b78dec01cd1283824d954570796025322e3c1650"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/5.3.1.0/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/5.3.1.0/DirichletMediationSDK.podspec.json",
+      "sha256": "1a86b650deecf3bc8fac299ed30c68f19ccd3e9c565a1fbdb01e1e2eaf70ff93"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/5.3.1.1/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/5.3.1.1/DirichletMediationSDK.podspec.json",
+      "sha256": "6cb8b9ee99795a5b3ed54f67b78dc48546a60cb02ffb1c9cb668d7f956700708"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/5.3.1.4/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/5.3.1.4/DirichletMediationSDK.podspec.json",
+      "sha256": "cdde323fad0005dda14419d96c0fffc52a5839b29fe7954bb59d2a98a4341af8"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/5.3.1.6/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/5.3.1.6/DirichletMediationSDK.podspec.json",
+      "sha256": "29a50de661f86d618e83ab4c11aa658c5bb9e4f093f030b295199c71fa648b4a"
+    },
+    {
+      "path": "Specs/DirichletMediationSDK/5.3.1.7/DirichletMediationSDK.podspec.json",
+      "upstream": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/c/8/8/DirichletMediationSDK/5.3.1.7/DirichletMediationSDK.podspec.json",
+      "sha256": "d2069b38a01acdde7c7ff436f218502cbc88a9f639576d880bfe3da86250fe26"
+    }
+  ]
+}
