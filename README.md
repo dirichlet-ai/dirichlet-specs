@@ -34,6 +34,20 @@ For an existing project, preserve `Podfile.lock` and inspect its `SPEC REPOS`
 section after installation. Adding this source does not change your locked
 SDK version. Do not remove other sources required by unrelated dependencies.
 
+If `SPEC REPOS` still lists Dirichlet Pods under `trunk`, pin your installed
+Dirichlet Pods to their existing exact versions, then run a targeted update:
+
+```sh
+# ADN example; for mediation include its installed adapters and SDK as well.
+pod update DirichletCoreSDK DirichletAdSDK --repo-update
+```
+
+Use only the Pod names already installed in your project. Review the lockfile
+diff: the source should change while SDK and third-party versions stay fixed.
+Do not delete the lockfile or run an unrestricted `pod update` just to migrate.
+Avoid adding `:source` to every direct dependency: CocoaPods then ignores global
+sources, which can make third-party transitive dependencies unavailable.
+
 Unity packages that include this migration add the sources during iOS export.
 For older packages, add the same two lines to the exported Podfile before
 running CocoaPods; a later export may overwrite that manual change.
